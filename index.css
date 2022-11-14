@@ -1,0 +1,63 @@
+#banner {
+
+    background-color: #ff9553;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    border-color: #065a15;
+    border-style: outset;
+}
+
+#banner_font {
+    font-size: 85px;
+}
+
+#start {
+    color:#065a15;
+}
+
+#big_image {
+    width: 1100px;
+    height:350px ;
+    align-items: center;
+}
+
+#first_decription {
+    font-size: 25px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+#bin_collection{
+    font-family: Cambria;
+}
+
+#buttons{
+    text-align: right;
+}
+
+#footer{
+    background-color: #808080;
+}
+
+#components{ 
+    padding-top: 5%;
+    background-color: rgb(183, 253, 230);
+}
+
+#header{
+    background-color: #065a15;
+}
+
+#history_image{
+    display: block;
+    margin-left: 80px;
+    width: 650px;
+}
+
+#history_content{
+    padding-left: 2%;
+}
+
+#visit_content{
+    padding-left: 2%;
+}
